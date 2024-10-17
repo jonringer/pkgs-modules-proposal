@@ -137,4 +137,6 @@ inputs.foo = "github:....";
 ## Future work
 
 - Implement `options.overlays.<language` for each language repository
+- As part of system mdoule eval, a `nixpkgs.modules` option should be added 
+  - `nixpkgs` should be renamed to a more generic term
 
