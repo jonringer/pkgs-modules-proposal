@@ -131,6 +131,8 @@ inputs.foo = "github:....";
 ## Unresolved questions
 
 - To remove ambigiuity with system module eval, should the attr be named `pkgsModules` instead?
+- What to do with legacy `config` option?
+  - Most likely keep for backwards compatibility with people wanting to interop with nixpkgs
 
 ## Future work
 
