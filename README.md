@@ -1,7 +1,7 @@
 ---
 Title: Allow for users to pass modules to pkgs.config
 Author: jonringer
-Discussions-To: 
+Discussions-To: [language overlay proposal](https://github.com/jonringer/language-specific-config-overlays-proposal)
 Status: Draft
 Type: Standards Track
 Topic: Packaging
